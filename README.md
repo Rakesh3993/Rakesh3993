@@ -40,3 +40,81 @@
     alt="Typing Animation"
   />
 </p>
+
+<p align="center">
+  <img src="./assets/github_animated_hr_thick.gif" width="100%"  alt="Animated divider">
+</p>
+
+<h2>💻 Technology Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=js" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=spring" width="90" height="100" />
+  <img src="https://skillicons.dev/icons?i=html" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=css" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=react" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=swift" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=c" width="90" height="90" />
+  
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="90" height="90"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=git" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=github" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=idea" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=postman" width="90" height="90" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="90" height="90" />
+</p>
+
+
+<p align="center">
+  <img src="./assets/github_animated_hr_thick.gif" width="100%"  alt="Animated divider">
+</p>
+
+
+<h2>📬 Connect With Me</h2>
+
+<p align="center">
+  <i>
+    Always open to interesting conversations, collaborations, or just a good chat!
+  </i>
+</p>
+
+<p align="center">
+
+  <a href="www.linkedin.com/in/rakesh-kumar-249605216">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+ <a href="https://leetcode.com/u/Rakesh3993/">
+  <img
+    src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="LeetCode"
+  />
+</a>
+
+  <a href="https://x.com/RakeshK37599837">
+    <img
+      src="https://img.shields.io/badge/X_(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white"
+      alt="X"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/rakeshnitr">
+    <img
+      src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
+</p>
+
