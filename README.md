@@ -58,10 +58,6 @@
   <img src="https://skillicons.dev/icons?i=react" width="90" height="90" />
   <img src="https://skillicons.dev/icons?i=swift" width="90" height="90" />
   <img src="https://skillicons.dev/icons?i=c" width="90" height="90" />
-  
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" width="90" height="90" />
   <img src="https://skillicons.dev/icons?i=postgres" width="90" height="90"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="90" height="90" />
