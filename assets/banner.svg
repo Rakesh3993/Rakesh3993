@@ -70,22 +70,6 @@
   <!-- TOP DECORATION -->
   <!-- ========================= -->
 
-  <line x1="50" y1="25"
-        x2="1150" y2="25"
-        stroke="#DFFBFF"
-        stroke-width="2"/>
-
-  <line x1="250" y1="25"
-        x2="650" y2="25"
-        stroke="#7167FF"
-        stroke-width="3"
-        filter="url(#glow)"/>
-
-  <line x1="650" y1="25"
-        x2="1000" y2="25"
-        stroke="#4CC9FF"
-        stroke-width="3"
-        filter="url(#glow)"/>
 
 
   <!-- ========================= -->
@@ -119,7 +103,7 @@
     font-size="30"
     font-weight="600">
 
-    Java Full Stack Developer
+    Software Developer
 
   </text>
 
@@ -127,19 +111,6 @@
   <!-- ========================= -->
   <!-- TECH STACK -->
   <!-- ========================= -->
-
-  <text
-    x="600"
-    y="245"
-    text-anchor="middle"
-    fill="#E8E8E8"
-    font-family="Arial, Helvetica, sans-serif"
-    font-size="17">
-
-    Java • Spring Boot • React • MySQL
-
-  </text>
-
 
   <!-- ========================= -->
   <!-- BOTTOM WAVE -->
@@ -162,31 +133,7 @@
   <!-- BOTTOM GLOW LINE -->
   <!-- ========================= -->
 
-  <line
-    x1="50"
-    y1="335"
-    x2="1150"
-    y2="335"
-    stroke="#DFFBFF"
-    stroke-width="2"/>
-
-  <line
-    x1="250"
-    y1="335"
-    x2="700"
-    y2="335"
-    stroke="#6868FF"
-    stroke-width="3"
-    filter="url(#glow)"/>
-
-  <line
-    x1="700"
-    y1="335"
-    x2="1000"
-    y2="335"
-    stroke="#50CFFF"
-    stroke-width="3"
-    filter="url(#glow)"/>
+ 
 
 
   <!-- ========================= -->
