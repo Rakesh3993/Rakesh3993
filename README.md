@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/github_animated_hr_thick.gif" width="100%" alt="Animated divider">
+</p>
+
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/Rakesh3993/Rakesh3993/main/assets/banner.svg"
     width="100%"
@@ -7,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/animated-hr-thick.gif" width="100%" alt="Animated divider">
+  <img src="./assets/github_animated_hr_thick.gif" width="100%" alt="Animated divider">
 </p>
 
 <p align="center">
