@@ -22,6 +22,17 @@
   <img src="./assets/github_animated_hr_thick.gif" width="100%"  alt="Animated divider">
 </p>
 
+<h4 align="center">
+  Hello Fellow &lt;Coders /&gt;! 👋
+</h4>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Rakesh3993&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square"
+    alt="PROFILE VIEWS"
+  />
+</p>
+
 
 <p align="center">
   <img
