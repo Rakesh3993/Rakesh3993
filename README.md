@@ -85,14 +85,14 @@
 
 <p align="center">
 
-  <a href="www.linkedin.com/in/rakesh-kumar-249605216">
+  <a href="https://www.linkedin.com/in/rakesh-kumar-249605216">
     <img
       src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
- <a href="https://leetcode.com/u/Rakesh3993/">
+ <a href="https://www.leetcode.com/u/RakeshRKK/">
   <img
     src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
     alt="LeetCode"
