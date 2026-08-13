@@ -11,8 +11,17 @@
 </p>
 
 <p align="center">
-  <img src="./assets/github_animated_hr_thick.gif" width="100%" alt="Animated divider">
+  <img src="./assets/github_animated_hr_thick.gif" width="100%"  alt="Animated divider">
 </p>
+
+<p align="center">
+  <img src="./assets/coder.gif" width="100%" height="500px" alt="Animated divider">
+</p>
+
+<p align="center">
+  <img src="./assets/github_animated_hr_thick.gif" width="100%"  alt="Animated divider">
+</p>
+
 
 <p align="center">
   <img
