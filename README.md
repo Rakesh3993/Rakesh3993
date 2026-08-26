@@ -114,26 +114,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./assets/github_animated_hr_thick.gif" width="100%"  alt="Animated divider">
-</p>
-
-<h3>🐍 My Contribution</h3>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Rakesh3993/Rakesh3993/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Rakesh3993/Rakesh3993/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Rakesh3993/Rakesh3993/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
