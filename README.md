@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/coder.gif" width="100%" height="500px" alt="Animated divider">
+  <img src="./assets/rkcoder.gif" width="100%" height="500px" alt="Animated divider">
 </p>
 
 <p align="center">
